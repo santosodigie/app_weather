@@ -8,6 +8,12 @@ class WeatherPage extends StatefulWidget {
 }
 
 class _WeatherPageState extends State<WeatherPage> {
+  // api key
+
+  // fetch weather
+
+  //weather animations
+
   @override
   Widget build(BuildContext context) {
     return Scaffold();
